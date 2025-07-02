@@ -1,0 +1,36 @@
+
+.box1{
+    background:#93B5C9;
+    height: 100px;
+    position: relative;
+
+}
+.box2{
+    background:#AB2849;
+    height: 150px;
+   
+}
+.box3{
+    background:#AB2849;
+    height: 60px;
+    margin: 10px 0 0;
+    width: 90%;
+    position: relative;
+    margin-left: auto;
+}
+.box4{
+    background:#AB2849;
+    height: 60px;
+    margin: 15px 0 0;
+    width: 90%;
+    position: relative;
+    margin-left: auto;
+}
+.box5{
+    background:#AB2849;
+    height: 60px;
+    margin: 10px;
+    margin-right: 1%; 
+    margin-left: 1%;
+    position:relative ;
+}

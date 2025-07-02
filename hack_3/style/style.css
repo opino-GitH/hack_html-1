@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+}
+.boxPadre{
+
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+
+}
+.box1{
+    
+   background-color: #93B5C9;
+   height: 80px;
+   width: 100%;
+}
+.box2{
+    background-color: #AB2849;
+    height: 150px;
+    width: 100%;
+   
+}
+.box3{
+    background: #AB2849;
+    width: 80%;
+    height: 65px;
+    margin-top: 10px;
+}
+.boxHijo{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around; 
+    height: 30px; 
+    width: 80%;
+
+}
+
+.box4{
+  background: #AB2849;
+  margin: 15px 0 0 0;
+  padding: 20px;
+  width: 500px;
+  height: 30px;
+
+}
+.box5{
+    
+    background: #AB2849;
+    width: 80%;
+    height: 60px;
+    margin-top: 65px;
+}
+.box6{
+    background-color: #AB2849;
+    height: 66px;
+    width: 100%;
+    margin-top: 65px;
+}

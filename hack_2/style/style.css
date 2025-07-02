@@ -1,0 +1,39 @@
+
+*{margin:0%}
+
+.box1{
+    background:#93B5C9;
+    height: 100px;
+
+}
+.box2{
+    background:#AB2849;
+    height: 160px;
+   
+}
+.box3{
+    background:#AB2849;
+    height: 60px;
+    margin: 10px 0 0;
+    margin-bottom: 7px;
+    width: 90%;
+    margin-right: auto;
+}
+.box4{
+    background:#AB2849;
+    height: 60px;
+    /*margin: 15px 0 0;*/
+    width: 90%;
+    float: left;
+    margin-bottom: 10px;
+
+}
+.box5{
+    background:#AB2849;
+    height: 60px;
+    clear: both;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
